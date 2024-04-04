@@ -4,6 +4,9 @@ body{
 
 }
 .container {
+  font-family: monospace;
+  background-color: #3a3b3c;
+
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
@@ -11,10 +14,16 @@ body{
   }
   
   .question {
+    font-family: monospace;
+  background-color: #3a3b3c;
+
     font-weight: bold;
   }
 
   h2{
+    font-family: monospace;
+  background-color: #3a3b3c;
+
     font-weight: bold;
   }
   
