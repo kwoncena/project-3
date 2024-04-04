@@ -1,11 +1,13 @@
 body{
   font-family: monospace;
   background-color: #3a3b3c;
+  color: #F9F6EE;
 
 }
 .container {
   font-family: monospace;
   background-color: #3a3b3c;
+  color: #F9F6EE;
 
     max-width: 600px;
     margin: 0 auto;
@@ -21,7 +23,8 @@ body{
   
   .question {
     font-family: monospace;
-  background-color: #3a3b3c;
+    background-color: #3a3b3c;
+    color: #F9F6EE;
 
     font-weight: bold;
   }
@@ -29,6 +32,7 @@ body{
   h2{
     font-family: monospace;
     background-color: #3a3b3c;
+    color: #F9F6EE;
 
     font-weight: bold;
   }
