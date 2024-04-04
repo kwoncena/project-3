@@ -12,6 +12,12 @@ body{
     padding: 20px;
     text-align: center;
   }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
   
   .question {
     font-family: monospace;
@@ -22,7 +28,7 @@ body{
 
   h2{
     font-family: monospace;
-  background-color: #3a3b3c;
+    background-color: #3a3b3c;
 
     font-weight: bold;
   }
